@@ -1,0 +1,32 @@
+SISTEMA DE AVISOS POR WHATSAPP
+
+PASOS PARA USAR:
+
+1) Abrir la carpeta
+2) Hacer doble click en "start.bat"
+3) Abrir el navegador y entrar a:
+   http://localhost:3000
+4) Activar el producto si aun no lo tiene (esto se realiza solo una vez)
+	1. Copiar el ID que se encuentra en pantalla
+	2. Enviarselo al proveedor
+	3. Pegar la Licencia otorgada por el proveedor
+	4. Activar
+
+5) Autorizar repartidor
+6) Encender sistema
+
+FORMATO DE MENSAJE DEL REPARTIDOR:
+Ejemplo: 20 los territorios
+
+IMPORTANTE:
+- No cerrar las ventanas que se abren
+- La PC debe quedar encendida
+
+7) En caso de querer modificar el mensaje que le llega al cliente: 
+	1. Cambiar el nombre del archivo mensaje.json -> mensaje.txt
+	2. Abrir el archivo
+	3. Modificar el mensaje
+	4. IMPORTANTE: No eliminar ninguna llave {} ni tocar la seccion de {{minutos}}
+	5. El contenido del mensaje puede cambiar pero no la estructura del mensaje
+
+Ante cualquier duda consultar al proveedor. 

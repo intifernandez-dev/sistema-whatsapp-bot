@@ -1,0 +1,88 @@
+LICENCIA DE USO EDUCATIVO Y DEMOSTRATIVO
+==========================================
+
+Copyright (c) 2025 Inti Nahuel Fernández
+
+Este código es distribuido con fines EDUCATIVOS Y DEMOSTRATIVOS únicamente.
+
+
+PERMISOS OTORGADOS:
+-------------------
+
+✅ Visualizar el código fuente
+✅ Estudiar la arquitectura y patrones de diseño implementados
+✅ Analizar las técnicas de programación utilizadas
+✅ Referenciar el proyecto en evaluaciones técnicas
+✅ Clonar el repositorio para estudio personal
+
+
+RESTRICCIONES:
+--------------
+
+❌ Uso comercial sin autorización expresa por escrito
+❌ Redistribución del código (total o parcial)
+❌ Modificación para uso en proyectos comerciales
+❌ Copia directa para proyectos propios
+❌ Venta o licenciamiento a terceros
+❌ Uso en producción sin licencia comercial
+
+
+DESCARGO DE RESPONSABILIDAD:
+----------------------------
+
+ESTE SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE
+COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+
+EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN
+RESPONSABLES DE CUALQUIER RECLAMO, DAÑOS U OTRA RESPONSABILIDAD, YA SEA
+EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, QUE SURJA DE,
+FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
+SOFTWARE.
+
+
+NOTA SOBRE VERSIÓN DEMO:
+------------------------
+
+Esta es una versión demostrativa del sistema. El sistema de licencias
+incluido utiliza un SECRET de ejemplo con fines educativos. La versión
+de producción implementa medidas de seguridad adicionales y criptografía
+más robusta.
+
+
+USO COMERCIAL:
+--------------
+
+Para obtener una licencia comercial o discutir oportunidades de
+colaboración, por favor contactar a:
+
+Inti Nahuel Fernández
+Email: intifernandez.dev@gmail.com
+LinkedIn: linkedin.com/in/intifernandez-dev
+GitHub: github.com/intifernandez-dev
+
+
+POLÍTICA DE CONTRIBUCIONES:
+---------------------------
+
+Este es un proyecto de portfolio personal. No se aceptan pull requests
+ni contribuciones externas en este momento.
+
+
+RECONOCIMIENTOS:
+----------------
+
+Este proyecto utiliza las siguientes tecnologías de código abierto:
+- whatsapp-web.js
+- Express.js
+- Node.js
+- XLSX
+- Puppeteer
+
+Agradecemos a los mantenedores de estas bibliotecas por su trabajo.
+
+
+---
+
+Desarrollado con ❤️ en Buenos Aires, Argentina
+Última actualización: Febrero 2026
