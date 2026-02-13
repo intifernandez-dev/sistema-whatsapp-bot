@@ -538,9 +538,8 @@ Ver [LICENSE](LICENSE) para más detalles.
 
 ## 👨‍💻 Autor
 
-**Inti Nahuel Fernández**
+**Inti Fernández**
 
-Desarrollador Full Stack especializado en automatización y soluciones empresariales.
 
 - 🌐 **Portfolio:** [intifernandez-dev.netlify.app](https://intifernandez-dev.netlify.app)
 - 💼 **LinkedIn:** [intifernandez-dev](https://linkedin.com/in/intifernandez-dev)
@@ -549,59 +548,6 @@ Desarrollador Full Stack especializado en automatización y soluciones empresari
 
 ---
 
-## 🙏 Agradecimientos
-
-Este proyecto fue posible gracias a:
-- **whatsapp-web.js** - Por la API de WhatsApp Web
-- **Express.js** - Por el framework web
-- **Bootstrap** - Por el diseño responsivo
-- **Node.js** - Por el runtime JavaScript
-
----
-
-## 📝 Changelog
-
-### v1.0.0 (Febrero 2026)
-- ✨ Lanzamiento inicial
-- ✅ Bot de WhatsApp funcional
-- ✅ Panel de administración web
-- ✅ Sistema de licencias demo
-- ✅ Base de datos Excel
-- ✅ Mensajes personalizables
-
----
-
-## 🔮 Roadmap (Futuras Mejoras)
-
-- [ ] Sistema de métricas y analytics
-- [ ] Soporte para múltiples repartidores simultáneos
-- [ ] Integración con bases de datos SQL
-- [ ] Dashboard con estadísticas en tiempo real
-- [ ] Sistema de notificaciones push
-- [ ] API REST para integración con otros sistemas
-- [ ] Versión móvil del panel de admin
-- [ ] Sistema de roles y permisos
-- [ ] Logs detallados con exportación
-- [ ] Integración con Telegram como alternativa
-
----
-
-**⚠️ IMPORTANTE - NOTA DE SEGURIDAD:**
-
-Esta es una versión **demo y educativa**. El sistema de licencias utiliza un SECRET de ejemplo. En producción se implementan:
-- Variables de entorno seguras
-- Criptografía más robusta
-- Validación en servidor remoto
-- Monitoreo de seguridad
-
-**No usar en producción sin las medidas de seguridad adecuadas.**
-
----
-
-<div align="center">
-
-**Desarrollado con ❤️ en Buenos Aires, Argentina**
 
 ⭐ Si este proyecto te pareció útil, considerá darle una estrella en GitHub
 
-</div>
